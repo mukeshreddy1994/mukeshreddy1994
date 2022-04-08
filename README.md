@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukesh Reddy
 - 👀 I’m interested in Machine Learning, Deep Learning and Python.
 - 🌱 I’m currently learning Machine Learning with interest in Deep Learning.
-- 💞️ I’m looking to collaborate on MAchine Learning and Deep Learning Projects.
+- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning Projects.
 - 📫 How to reach me Twitter : https://twitter.com/mukeshreddy1994
 
 <!---
