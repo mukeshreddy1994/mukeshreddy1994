@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/ShruAgarwal/mukeshreddy1994/blob/main/bio.gif">
+<img align="left" src="https://github.com/ShruAgarwal/mukeshreddy1994/blob/main/bio.gif" width="500">
 
 ### 👋 ABOUT ME 
 ![](https://komarev.com/ghpvc/?username=mukeshreddy1994&style=plastic&color=orange&label=VISITS)
@@ -7,7 +7,6 @@
    - 💞️ Looking forward to collaborate on Machine Learning and Deep Learning Projects.
    - 📫 *Reach me out on* : 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/mukeshreddy1994) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mukesh-reddy-73a13891/) 
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 
 <br clear="left"/>
 
