@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/ShruAgarwal/mukeshreddy1994/blob/main/bio.gif" width="500">
+<img align="left" src="https://github.com/ShruAgarwal/mukeshreddy1994/blob/mukesh-readme/bio.gif" width="540">
 
 ### 👋 ABOUT ME 
 ![](https://komarev.com/ghpvc/?username=mukeshreddy1994&style=plastic&color=orange&label=VISITS)
